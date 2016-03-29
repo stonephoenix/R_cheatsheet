@@ -1,5 +1,4 @@
-# setwd("G:/Case/ThermalCycle/")
-# rm(list = ls())
+# see http://www.statmethods.net/stats/rdiagnostics.html
 library(car)
 library(ggplot2)
 
